@@ -15,5 +15,5 @@
     • Registrador TRISC, foi utilizado como entrada ele recebe o sinal dos fios, dessa forma é possível saber quando eles são cortados;<br/></p>
 <p>Utilizando os dados capturados através dos registradores a lógica desenvolvida realiza as operações descritas na orientação do comportamento da bomba;
 </p>
-
+<p> Link para visualização projeto, https://youtu.be/xF_4sKS1wxU </p>
 
